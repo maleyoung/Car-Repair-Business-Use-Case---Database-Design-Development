@@ -5,13 +5,13 @@ A project for my Master's Degree to develop a proposal for creating a database s
 
 # Process: 
 - Determining System Requirements
-- Structuring System Process Requirements
 - Object Orientated Analysis and Design - Use Cases, Activity Diagrams, and Business Process Modeling
 - Structuring System Data Requirements
 - Database Conceptual Design
 - Logical and Physical Database Design
 - Testing and Quality Assurance
-- Implementation & Deployment
+- Secure Software Development - Software Development Lifecycle 
+- Incorporating DevOps into the SDLC
 
 
 # Assignment Introduction
